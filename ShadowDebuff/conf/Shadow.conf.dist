@@ -1,0 +1,8 @@
+[worldserver]
+
+#
+# Activar debuff aura de stack de shadowmourne
+# default: true
+#
+
+enableShadowDebuff=true
